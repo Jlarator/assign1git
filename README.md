@@ -3,6 +3,6 @@ Jared Lara Torres
 
 First Comment
 
-newbranch comment number two
+newbranch comment number three
 
 This is a change on newbranch
